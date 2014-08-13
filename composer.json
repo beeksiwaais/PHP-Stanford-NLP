@@ -1,7 +1,7 @@
 {
-    "name": "beeksiwaais/php-standford-nlp",
+    "name": "beeksiwaais/php-stanford-nlp",
     "type": "library",
-    "description": "PHP Standford NLP",
+    "description": "PHP Stanford NLP",
     "keywords": [],
     "autoload": {
         "psr-0": {
