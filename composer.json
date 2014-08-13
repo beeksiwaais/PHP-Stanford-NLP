@@ -1,0 +1,12 @@
+{
+    "name": "beeksiwaais/php-standford-nlp",
+    "type": "library",
+    "description": "PHP Standford NLP",
+    "keywords": [],
+    "autoload": {
+        "psr-0": {
+            "StandfordNLP": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
